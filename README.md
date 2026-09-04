@@ -229,17 +229,6 @@ AI / LLM Applications
 * 📦 Publish high-quality projects
 * 🌟 Contribute to open source
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=123Banti2211&show_icons=true&theme=tokyonight)
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 

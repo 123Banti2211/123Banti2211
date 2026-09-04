@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Banti Joarder
 
-### 💻 Software Developer | Java • JavaScript • Next.js • Oracle Fusion SCM • AI
+### 💻 Software Developer | Python • Java • JavaScript • Next.js • Oracle Fusion SCM • AI 
 
 I'm a **B.Tech graduate in Electronics & Communication Engineering** with a strong interest in **software development, cloud technologies, enterprise applications, and AI-powered solutions**.
 

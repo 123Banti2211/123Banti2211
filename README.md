@@ -235,9 +235,7 @@ AI / LLM Applications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=123Banti2211&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Banti2211&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=123Banti2211&show_icons=true&theme=tokyonight)
 
 </div>
 

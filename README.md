@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Banti Joarder
+# Hi, I'm Banti Joarder
 
 ### 💻 Software Developer | Python • Java • JavaScript • Next.js • Oracle Fusion SCM • AI 
 
